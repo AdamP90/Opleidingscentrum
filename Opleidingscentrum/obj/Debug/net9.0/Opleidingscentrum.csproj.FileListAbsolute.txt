@@ -1,0 +1,14 @@
+/Users/adhamyaghi/Downloads/C#/Opleidingscentrum/Opleidingscentrum/bin/Debug/net9.0/Opleidingscentrum
+/Users/adhamyaghi/Downloads/C#/Opleidingscentrum/Opleidingscentrum/bin/Debug/net9.0/Opleidingscentrum.deps.json
+/Users/adhamyaghi/Downloads/C#/Opleidingscentrum/Opleidingscentrum/bin/Debug/net9.0/Opleidingscentrum.runtimeconfig.json
+/Users/adhamyaghi/Downloads/C#/Opleidingscentrum/Opleidingscentrum/bin/Debug/net9.0/Opleidingscentrum.dll
+/Users/adhamyaghi/Downloads/C#/Opleidingscentrum/Opleidingscentrum/bin/Debug/net9.0/Opleidingscentrum.pdb
+/Users/adhamyaghi/Downloads/C#/Opleidingscentrum/Opleidingscentrum/obj/Debug/net9.0/Opleidingscentrum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adhamyaghi/Downloads/C#/Opleidingscentrum/Opleidingscentrum/obj/Debug/net9.0/Opleidingscentrum.AssemblyInfoInputs.cache
+/Users/adhamyaghi/Downloads/C#/Opleidingscentrum/Opleidingscentrum/obj/Debug/net9.0/Opleidingscentrum.AssemblyInfo.cs
+/Users/adhamyaghi/Downloads/C#/Opleidingscentrum/Opleidingscentrum/obj/Debug/net9.0/Opleidingscentrum.csproj.CoreCompileInputs.cache
+/Users/adhamyaghi/Downloads/C#/Opleidingscentrum/Opleidingscentrum/obj/Debug/net9.0/Opleidingscentrum.dll
+/Users/adhamyaghi/Downloads/C#/Opleidingscentrum/Opleidingscentrum/obj/Debug/net9.0/refint/Opleidingscentrum.dll
+/Users/adhamyaghi/Downloads/C#/Opleidingscentrum/Opleidingscentrum/obj/Debug/net9.0/Opleidingscentrum.pdb
+/Users/adhamyaghi/Downloads/C#/Opleidingscentrum/Opleidingscentrum/obj/Debug/net9.0/Opleidingscentrum.genruntimeconfig.cache
+/Users/adhamyaghi/Downloads/C#/Opleidingscentrum/Opleidingscentrum/obj/Debug/net9.0/ref/Opleidingscentrum.dll
