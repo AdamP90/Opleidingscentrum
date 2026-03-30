@@ -53,4 +53,4 @@ Console.WriteLine($"Totale maandkost (personeel + infrastructuur): {totaal:0.##}
 Console.WriteLine("Press any key to continue...");
 Console.ReadKey();
 
-Console.WriteLine("Einde van het programma.");
+Console.WriteLine("Einde van het progra.");
